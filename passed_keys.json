@@ -1,0 +1,1062 @@
+[
+    {
+        "key": "M489",
+        "title": "Maapinta-ala, km2"
+    },
+    {
+        "key": "M520",
+        "title": "V\u00e4est\u00f6\u00e4, jolla tiedossa koordinaatit"
+    },
+    {
+        "key": "M411",
+        "title": "V\u00e4kiluku"
+    },
+    {
+        "key": "M521",
+        "title": "Keskiv\u00e4kiluku"
+    },
+    {
+        "key": "M316",
+        "title": "V\u00e4est\u00f6nlis\u00e4ys"
+    },
+    {
+        "key": "M317",
+        "title": "V\u00e4est\u00f6nlis\u00e4ys, promillea keskiv\u00e4kiluvusta"
+    },
+    {
+        "key": "M476",
+        "title": "V\u00e4kiluvun muutos edellisest\u00e4 vuodesta, %"
+    },
+    {
+        "key": "M477",
+        "title": "V\u00e4kiluvun muutos viidess\u00e4 vuodessa, %"
+    },
+    {
+        "key": "M469",
+        "title": "Miehi\u00e4"
+    },
+    {
+        "key": "M471",
+        "title": "Naisia"
+    },
+    {
+        "key": "M406",
+        "title": "Naisia 1 000 miest\u00e4 kohti"
+    },
+    {
+        "key": "M393",
+        "title": "Alle 7-vuotiaita"
+    },
+    {
+        "key": "M392",
+        "title": "Alle 7-vuotiaita, %"
+    },
+    {
+        "key": "M390",
+        "title": "Alle 15-vuotiaita"
+    },
+    {
+        "key": "M391",
+        "title": "Alle 15-vuotiaita, %"
+    },
+    {
+        "key": "M401",
+        "title": "Alle 15-vuotiaiden m\u00e4\u00e4r\u00e4n muutos edellisest\u00e4 vuodesta, %"
+    },
+    {
+        "key": "M403",
+        "title": "Alle 15-vuotiaiden m\u00e4\u00e4r\u00e4n muutos viidess\u00e4 vuodessa, %"
+    },
+    {
+        "key": "M422",
+        "title": "15-64-vuotiaita"
+    },
+    {
+        "key": "M421",
+        "title": "15-64-vuotiaita, %"
+    },
+    {
+        "key": "M400",
+        "title": "15-64-vuotiaiden m\u00e4\u00e4r\u00e4n muutos edellisest\u00e4 vuodesta, %"
+    },
+    {
+        "key": "M402",
+        "title": "15-64-vuotiaiden m\u00e4\u00e4r\u00e4n muutos  viidess\u00e4 vuodessa, %"
+    },
+    {
+        "key": "M479",
+        "title": "Yli 64-vuotiaita"
+    },
+    {
+        "key": "M478",
+        "title": "Yli 64-vuotiaita, %"
+    },
+    {
+        "key": "M394",
+        "title": "Alle 15- ja yli 64-vuotiaita"
+    },
+    {
+        "key": "M395",
+        "title": "Alle 15- ja yli 64-vuotiaita, %"
+    },
+    {
+        "key": "M396",
+        "title": "Demografinen huoltosuhde"
+    },
+    {
+        "key": "M397",
+        "title": "V\u00e4est\u00f6n keski-ik\u00e4"
+    },
+    {
+        "key": "M398",
+        "title": "V\u00e4est\u00f6n keski-ik\u00e4, miehet"
+    },
+    {
+        "key": "M399",
+        "title": "V\u00e4est\u00f6n keski-ik\u00e4, naiset"
+    },
+    {
+        "key": "M405",
+        "title": "Ruotsinkielisi\u00e4"
+    },
+    {
+        "key": "M404",
+        "title": "Ruotsinkielisi\u00e4, %"
+    },
+    {
+        "key": "M409",
+        "title": "Ulkomaan kansalaisia"
+    },
+    {
+        "key": "M410",
+        "title": "Ulkomaan kansalaisia, %"
+    },
+    {
+        "key": "M407",
+        "title": "Taajamav\u00e4est\u00f6\u00e4"
+    },
+    {
+        "key": "M408",
+        "title": "Taajama-aste, %"
+    },
+    {
+        "key": "M306",
+        "title": "Syntyneit\u00e4"
+    },
+    {
+        "key": "M307",
+        "title": "Syntyneit\u00e4/1 000 asukasta"
+    },
+    {
+        "key": "M300",
+        "title": "Kuolleita"
+    },
+    {
+        "key": "M301",
+        "title": "Kuolleita/1 000 asukasta"
+    },
+    {
+        "key": "M303",
+        "title": "Syntyneiden enemmyys, henkil\u00f6\u00e4"
+    },
+    {
+        "key": "M304",
+        "title": "Syntyneiden enemmyys (luonnollinen v\u00e4est\u00f6nlis\u00e4ys), promillea"
+    },
+    {
+        "key": "M522",
+        "title": "Nettomuutto"
+    },
+    {
+        "key": "M279",
+        "title": "Muuttotase, promillea keskiv\u00e4kiluvusta"
+    },
+    {
+        "key": "M272",
+        "title": "Maahanmuuttaneita"
+    },
+    {
+        "key": "M265",
+        "title": "Maastamuuttaneita"
+    },
+    {
+        "key": "M523",
+        "title": "Nettomaahanmutto"
+    },
+    {
+        "key": "M298",
+        "title": "Nettomaahanmuutto, promillea keskiv\u00e4kiluvusta"
+    },
+    {
+        "key": "M267",
+        "title": "Kuntien v\u00e4list\u00e4 l\u00e4ht\u00f6muuttoa"
+    },
+    {
+        "key": "M274",
+        "title": "Kuntien v\u00e4list\u00e4 tulomuuttoa"
+    },
+    {
+        "key": "M297",
+        "title": "Kuntien v\u00e4list\u00e4 muuttovoittoa/-tappiota, henkil\u00f6\u00e4"
+    },
+    {
+        "key": "M284",
+        "title": "Kuntien v\u00e4linen muuttotase, promillea keskiv\u00e4kiluvusta"
+    },
+    {
+        "key": "M525",
+        "title": "Kaikki asunnot"
+    },
+    {
+        "key": "M40",
+        "title": "Asuntojen keskipinta-ala, m2"
+    },
+    {
+        "key": "M302",
+        "title": "Perheit\u00e4"
+    },
+    {
+        "key": "M44",
+        "title": "Asuntokuntia"
+    },
+    {
+        "key": "M41",
+        "title": "Asuntokuntien keskikoko, henkil\u00f6\u00e4"
+    },
+    {
+        "key": "M30",
+        "title": "Ahtaasti asuvia asuntokuntia"
+    },
+    {
+        "key": "M31",
+        "title": "Ahtaasti asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M32",
+        "title": "1 henkil\u00f6n asuntokuntia"
+    },
+    {
+        "key": "M33",
+        "title": "1 henkil\u00f6n asuntokuntia, %"
+    },
+    {
+        "key": "M34",
+        "title": "2 henkil\u00f6n asuntokuntia"
+    },
+    {
+        "key": "M35",
+        "title": "2 henkil\u00f6n asuntokuntia, %"
+    },
+    {
+        "key": "M36",
+        "title": "3 henkil\u00f6n asuntokuntia"
+    },
+    {
+        "key": "M37",
+        "title": "3 henkil\u00f6n asuntokuntia, %"
+    },
+    {
+        "key": "M38",
+        "title": "Yli 3 henkil\u00f6n asuntokuntia"
+    },
+    {
+        "key": "M39",
+        "title": "Yli 3 henkil\u00f6n asuntokuntia, %"
+    },
+    {
+        "key": "M526",
+        "title": "Henkil\u00f6it\u00e4 asuntokunnissa, kun asuntojen pinta-ala on tunnettu"
+    },
+    {
+        "key": "M53",
+        "title": "Vakinaisesti asuttujen asuntojen pinta-ala, m2"
+    },
+    {
+        "key": "M54",
+        "title": "Asuntojen pinta-ala, m2/henkil\u00f6, kun pinta-ala tunnettu"
+    },
+    {
+        "key": "M61",
+        "title": "Rivi- ja pientaloissa asuvia asuntokuntia"
+    },
+    {
+        "key": "M62",
+        "title": "Rivi- ja pientaloissa asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M55",
+        "title": "Pientaloissa asuvia asuntokuntia"
+    },
+    {
+        "key": "M56",
+        "title": "Pientaloissa asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M59",
+        "title": "Rivi- ja ketjutaloissa asuvia asuntokuntia"
+    },
+    {
+        "key": "M60",
+        "title": "Rivi- ja ketjutaloissa asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M42",
+        "title": "Kerrostaloissa asuvia asuntokuntia"
+    },
+    {
+        "key": "M43",
+        "title": "Kerrostaloissa asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M49",
+        "title": "Muissa rakennuksissa asuvia asuntokuntia"
+    },
+    {
+        "key": "M50",
+        "title": "Muissa rakennuksissa asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M45",
+        "title": "Ei vakinaisessa asuink\u00e4yt\u00f6ss\u00e4 olevia asuntoja"
+    },
+    {
+        "key": "M46",
+        "title": "Ei vakinaisessa asuink\u00e4yt\u00f6ss\u00e4 olevia asuntoja, %"
+    },
+    {
+        "key": "M51",
+        "title": "Omistusasunnoissa asuvia asuntokuntia"
+    },
+    {
+        "key": "M52",
+        "title": "Omistusasunnoissa asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M69",
+        "title": "Vuokra-asunnoissa asuvia asuntokuntia"
+    },
+    {
+        "key": "M70",
+        "title": "Vuokra-asunnoissa asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M481",
+        "title": "Asumisoikeusasunnoissa tai hallintaperusteeltaan tuntemattomissa/muissa asunnoissa asuvia asuntokuntia"
+    },
+    {
+        "key": "M480",
+        "title": "Asumisoikeusasunnoissa tai hallintaperusteeltaan tuntemattomissa/muissa asunnoissa asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M57",
+        "title": "Puutteellisesti varustetuissa tai varustetasoltaan tuntemattomissa asunnoissa asuvia asuntokuntia"
+    },
+    {
+        "key": "M58",
+        "title": "Puutteellisesti varustetuissa tai varustetasoltaan tuntemattomissa asunnoissa asuvia asuntokuntia, %"
+    },
+    {
+        "key": "M527",
+        "title": "Vanhusasuntokuntia"
+    },
+    {
+        "key": "M63",
+        "title": "Hyvin varustetuissa asunnoissa asuvia vanhusasuntokuntia"
+    },
+    {
+        "key": "M64",
+        "title": "Hyvin varustetuissa asunnoissa asuvia vanhusasuntokuntia, %"
+    },
+    {
+        "key": "M65",
+        "title": "Puutteellisesti varustetuissa tai varustetasoltaan tuntemattomissa asunnoissa asuvia vanhusasuntokuntia"
+    },
+    {
+        "key": "M66",
+        "title": "Puutteellisesti varustetuissa asunnossa asuvia vanhusasuntokuntia, %"
+    },
+    {
+        "key": "M528",
+        "title": "Rakennuksia"
+    },
+    {
+        "key": "M3",
+        "title": "Rakennusten kerrosala, m2"
+    },
+    {
+        "key": "M1",
+        "title": "Asuinrakennusten kerrosala, m2"
+    },
+    {
+        "key": "M2",
+        "title": "Asuinrakennusten kerrosala, %"
+    },
+    {
+        "key": "M4",
+        "title": "Liike- ja toimistorakennusten kerrosala, m2"
+    },
+    {
+        "key": "M5",
+        "title": "Liike- ja toimistorakennusten kerrosala, %"
+    },
+    {
+        "key": "M6",
+        "title": "Opetus- ja kokoontumisrakennusten, hoitoalan ja muiden rakennusten kerrosala, m2"
+    },
+    {
+        "key": "M7",
+        "title": "Opetus- ja kokoontumisrakennusten, hoitoalan ja muiden rakennusten kerrosala, %"
+    },
+    {
+        "key": "M8",
+        "title": "Teollisuus- varasto- ja liikenteen rakennusten kerrosala, m2"
+    },
+    {
+        "key": "M9",
+        "title": "Teollisuus- varasto- ja liikenteen rakennusten kerrosala, %"
+    },
+    {
+        "key": "M10",
+        "title": "Kes\u00e4m\u00f6kkej\u00e4"
+    },
+    {
+        "key": "M11",
+        "title": "Kes\u00e4m\u00f6kkej\u00e4/1 000 asukasta"
+    },
+    {
+        "key": "M47",
+        "title": "Kes\u00e4asukkaita"
+    },
+    {
+        "key": "M48",
+        "title": "Kes\u00e4asukkaita/100 asukasta"
+    },
+    {
+        "key": "M28",
+        "title": "Ulkopaikkakuntalaisten omistamia yksityisi\u00e4 kes\u00e4m\u00f6kkej\u00e4"
+    },
+    {
+        "key": "M29",
+        "title": "Ulkopaikkakuntalaisten omistamia yksityisi\u00e4 kes\u00e4m\u00f6kkej\u00e4, %"
+    },
+    {
+        "key": "M529",
+        "title": "25-29-vuotiaita"
+    },
+    {
+        "key": "M318",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, 25-29-vuotiaat"
+    },
+    {
+        "key": "M319",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, 25-29-vuotiaat, osuus ik\u00e4ryhm\u00e4st\u00e4, %"
+    },
+    {
+        "key": "M508",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, 15 vuotta t\u00e4ytt\u00e4neet"
+    },
+    {
+        "key": "M509",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4, %"
+    },
+    {
+        "key": "M510",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, 15 vuotta t\u00e4ytt\u00e4neet miehet"
+    },
+    {
+        "key": "M511",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 miehist\u00e4, %"
+    },
+    {
+        "key": "M512",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, 15 vuotta t\u00e4ytt\u00e4neet naiset"
+    },
+    {
+        "key": "M513",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 naisista, %"
+    },
+    {
+        "key": "M487",
+        "title": "V\u00e4hint\u00e4\u00e4n toisen asteen tutkinnon suorittaneita"
+    },
+    {
+        "key": "M488",
+        "title": "V\u00e4hint\u00e4\u00e4n toisen asteen tutkinnon suorittaneita, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4, %"
+    },
+    {
+        "key": "M504",
+        "title": "V\u00e4hint\u00e4\u00e4n toisen asteen tutkinnon suorittaneita miehi\u00e4"
+    },
+    {
+        "key": "M505",
+        "title": "V\u00e4hint\u00e4\u00e4n toisen asteen tutkinnon suorittaneita miehi\u00e4, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 miehist\u00e4, %"
+    },
+    {
+        "key": "M507",
+        "title": "V\u00e4hint\u00e4\u00e4n toisen asteen tutkinnon suorittaneita naisia"
+    },
+    {
+        "key": "M506",
+        "title": "V\u00e4hint\u00e4\u00e4n toisen asteen tutkinnon suorittaneita naisia, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 naisista, %"
+    },
+    {
+        "key": "M484",
+        "title": "Korkea-asteen tutkinnon suorittaneita"
+    },
+    {
+        "key": "M486",
+        "title": "Korkea-asteen tutkinnon suorittaneita, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4, %"
+    },
+    {
+        "key": "M337",
+        "title": "Toisen asteen tutkinnon ja erikoisammattitutkinnon suorittaneita"
+    },
+    {
+        "key": "M336",
+        "title": "Toisen asteen tutkinnon ja erikoisammattitutkinnon suorittaneita, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4, %"
+    },
+    {
+        "key": "M339",
+        "title": "Toisen asteen tutkinnon  ja erikoisammattitutkinnon suorittaneita miehi\u00e4"
+    },
+    {
+        "key": "M338",
+        "title": "Toisen asteen tutkinnon ja erikoisammattitutkinnon suorittaneita miehi\u00e4, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 miehist\u00e4, %"
+    },
+    {
+        "key": "M341",
+        "title": "Toisen asteen tutkinnon  ja erikoisammattitutkinnon suorittaneita naisia"
+    },
+    {
+        "key": "M340",
+        "title": "Toisen asteen tutkinnon ja erikoisammattitutkinnon suorittaneita naisia, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 naisista, %"
+    },
+    {
+        "key": "M330",
+        "title": "Alimman korkea-asteen tutkinnon suorittaneita"
+    },
+    {
+        "key": "M331",
+        "title": "Alimman korkea-asteen tutkinnon suorittaneita, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4, %"
+    },
+    {
+        "key": "M332",
+        "title": "Alimman korkea-asteen tutkinnon suorittaneita miehi\u00e4"
+    },
+    {
+        "key": "M333",
+        "title": "Alimman korkea-asteen tutkinnon suorittaneita miehi\u00e4, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 miehist\u00e4, %"
+    },
+    {
+        "key": "M335",
+        "title": "Alimman korkea-asteen tutkinnon suorittaneita naisia"
+    },
+    {
+        "key": "M334",
+        "title": "Alimman korkea-asteen tutkinnon suorittaneita naisia, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 naisista, %"
+    },
+    {
+        "key": "M325",
+        "title": "Alemman korkeakouluasteen tutkinnon suorittaneita"
+    },
+    {
+        "key": "M324",
+        "title": "Alemman korkeakouluasteen tutkinnon suorittaneita, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4, %"
+    },
+    {
+        "key": "M327",
+        "title": "Alemman korkeakouluasteen tutkinnon suorittaneita miehi\u00e4"
+    },
+    {
+        "key": "M326",
+        "title": "Alemman korkeakouluasteen tutkinnon suorittaneita miehi\u00e4, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 miehist\u00e4, %"
+    },
+    {
+        "key": "M328",
+        "title": "Alemman korkeakouluasteen tutkinnon suorittaneita naisia"
+    },
+    {
+        "key": "M329",
+        "title": "Alemman korkeakouluasteen tutkinnon suorittaneita naisia, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4 naisista, %"
+    },
+    {
+        "key": "M349",
+        "title": "Ylemm\u00e4n korkeakouluasteen tutkinnon suorittaneita"
+    },
+    {
+        "key": "M348",
+        "title": "Ylemm\u00e4n korkeakouluasteen tutkinnon suorittaneita, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4, %"
+    },
+    {
+        "key": "M342",
+        "title": "Tutkijakoulutusasteen tutkinnon suorittaneita"
+    },
+    {
+        "key": "M343",
+        "title": "Tutkijakoulutusasteen tutkinnon suorittaneita, osuus 15 vuotta t\u00e4ytt\u00e4neist\u00e4, %"
+    },
+    {
+        "key": "M530",
+        "title": "20 vuotta t\u00e4ytt\u00e4neet"
+    },
+    {
+        "key": "M366",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, 20+ -vuotiaat"
+    },
+    {
+        "key": "M367",
+        "title": "Ei perusasteen j\u00e4lkeist\u00e4 tutkintoa, 20+ -vuotiaat, osuus ik\u00e4ryhm\u00e4st\u00e4, %"
+    },
+    {
+        "key": "M373",
+        "title": "Toisen asteen tutkinnon suorittaneita 20+ -vuotiaita"
+    },
+    {
+        "key": "M372",
+        "title": "Toisen asteen tutkinnon suorittaneita 20+ -vuotiaita, osuus ik\u00e4ryhm\u00e4st\u00e4, %"
+    },
+    {
+        "key": "M384",
+        "title": "Ylemm\u00e4n korkeakouluasteen tutkinnon suorittaneita 20+ -vuotiaita"
+    },
+    {
+        "key": "M385",
+        "title": "Ylemm\u00e4n korkeakouluasteen tutkinnon suorittaneita 20+ -vuotiaita, osuus ik\u00e4ryhm\u00e4st\u00e4, %"
+    },
+    {
+        "key": "M531",
+        "title": "Tutkijakoulutusasteen tutkinnon suorittaneita 20+ -vuotiaita"
+    },
+    {
+        "key": "M378",
+        "title": "Tutkijakoulutusasteen tutkinnon suorittaneita 20+ -vuotiaita, osuus ik\u00e4ryhm\u00e4st\u00e4, %"
+    },
+    {
+        "key": "M485",
+        "title": "Taloudellinen huoltosuhde"
+    },
+    {
+        "key": "M151",
+        "title": "Ty\u00f6paikkaomavaraisuus"
+    },
+    {
+        "key": "M137",
+        "title": "Alueella asuva ty\u00f6llinen ty\u00f6voima"
+    },
+    {
+        "key": "M532",
+        "title": "Alueella asuva ty\u00f6llinen ty\u00f6voima, miehet"
+    },
+    {
+        "key": "M533",
+        "title": "Alueella asuva ty\u00f6llinen ty\u00f6voima, naiset"
+    },
+    {
+        "key": "M138",
+        "title": "Ty\u00f6llisen ty\u00f6voiman osuus v\u00e4est\u00f6st\u00e4, %"
+    },
+    {
+        "key": "M150",
+        "title": "Ty\u00f6llisten m\u00e4\u00e4r\u00e4n muutos edellisest\u00e4 vuodesta, %"
+    },
+    {
+        "key": "M73",
+        "title": "Alkutuotannon ty\u00f6llinen ty\u00f6voima"
+    },
+    {
+        "key": "M74",
+        "title": "Alkutuotannon ty\u00f6llisten osuus kaikista ty\u00f6llisist\u00e4, %"
+    },
+    {
+        "key": "M81",
+        "title": "Jalostuksen ty\u00f6llinen ty\u00f6voima"
+    },
+    {
+        "key": "M82",
+        "title": "Jalostuksen ty\u00f6llisten osuus kaikista ty\u00f6llisist\u00e4, %"
+    },
+    {
+        "key": "M103",
+        "title": "Palvelutoimialojen ty\u00f6llinen ty\u00f6voima"
+    },
+    {
+        "key": "M104",
+        "title": "Palvelutoimialojen ty\u00f6llisten osuus kaikista ty\u00f6llisist\u00e4, %"
+    },
+    {
+        "key": "M534",
+        "title": "20-64-vuotiaita"
+    },
+    {
+        "key": "M535",
+        "title": "20-64-vuotiaita ty\u00f6llisi\u00e4"
+    },
+    {
+        "key": "M536",
+        "title": "20-64-vuotiaiden ty\u00f6llisyysaste, %"
+    },
+    {
+        "key": "M129",
+        "title": "Asuinkunnassaan ty\u00f6ss\u00e4k\u00e4yvi\u00e4"
+    },
+    {
+        "key": "M130",
+        "title": "Asuinkunnassaan ty\u00f6ss\u00e4k\u00e4yvi\u00e4, osuus ty\u00f6llisist\u00e4, %"
+    },
+    {
+        "key": "M163",
+        "title": "Asuinkuntansa ulkopuolella ty\u00f6ss\u00e4k\u00e4yvi\u00e4"
+    },
+    {
+        "key": "M164",
+        "title": "Asuinkuntansa ulkopuolella ty\u00f6ss\u00e4k\u00e4yvi\u00e4, % alueen ty\u00f6llisist\u00e4"
+    },
+    {
+        "key": "M115",
+        "title": "Ty\u00f6paikan kuntaan pendel\u00f6ivi\u00e4"
+    },
+    {
+        "key": "M116",
+        "title": "Ty\u00f6paikan kuntaan pendel\u00f6ivi\u00e4, % alueella ty\u00f6ss\u00e4k\u00e4yvist\u00e4"
+    },
+    {
+        "key": "M159",
+        "title": "Ty\u00f6tt\u00f6mi\u00e4"
+    },
+    {
+        "key": "M160",
+        "title": "Ty\u00f6tt\u00f6mien osuus v\u00e4est\u00f6st\u00e4, %"
+    },
+    {
+        "key": "M161",
+        "title": "18-64-vuotiaita ty\u00f6tt\u00f6mi\u00e4"
+    },
+    {
+        "key": "M162",
+        "title": "Ty\u00f6tt\u00f6mien osuus ty\u00f6voimasta, %"
+    },
+    {
+        "key": "M537",
+        "title": "Vuoden aikana ty\u00f6tt\u00f6m\u00e4ksi joutuneita"
+    },
+    {
+        "key": "M538",
+        "title": "Vuoden aikana ty\u00f6tt\u00f6m\u00e4ksi joutuneita miehi\u00e4"
+    },
+    {
+        "key": "M539",
+        "title": "Vuoden aikana ty\u00f6tt\u00f6m\u00e4ksi joutuneita naisia"
+    },
+    {
+        "key": "M147",
+        "title": "Ty\u00f6tt\u00f6myysriski, %"
+    },
+    {
+        "key": "M148",
+        "title": "Ty\u00f6tt\u00f6myysriski, miehet, %"
+    },
+    {
+        "key": "M149",
+        "title": "Ty\u00f6tt\u00f6myysriski, naiset, %"
+    },
+    {
+        "key": "M101",
+        "title": "Opiskelijoita"
+    },
+    {
+        "key": "M102",
+        "title": "Opiskelijoiden osuus v\u00e4est\u00f6st\u00e4, %"
+    },
+    {
+        "key": "M171",
+        "title": "Varusmiehi\u00e4, siviilipalvelusmiehi\u00e4"
+    },
+    {
+        "key": "M172",
+        "title": "Varus- ja siviilipalvelusmiesten osuus v\u00e4est\u00f6st\u00e4, %"
+    },
+    {
+        "key": "M77",
+        "title": "El\u00e4kel\u00e4isi\u00e4 pl. ty\u00f6tt\u00f6myysel\u00e4kel\u00e4iset"
+    },
+    {
+        "key": "M78",
+        "title": "El\u00e4kel\u00e4isten osuus v\u00e4est\u00f6st\u00e4, %"
+    },
+    {
+        "key": "M157",
+        "title": "Ty\u00f6tt\u00f6myysel\u00e4kel\u00e4isi\u00e4"
+    },
+    {
+        "key": "M158",
+        "title": "Ty\u00f6tt\u00f6myysel\u00e4kel\u00e4isten osuus v\u00e4est\u00f6st\u00e4, %"
+    },
+    {
+        "key": "M97",
+        "title": "Muita ty\u00f6voiman ulkopuolella olevia"
+    },
+    {
+        "key": "M98",
+        "title": "Muiden ty\u00f6voiman ulkopuolella olevien osuus v\u00e4est\u00f6st\u00e4 %"
+    },
+    {
+        "key": "M131",
+        "title": "18-24-vuotiaita ty\u00f6llisi\u00e4"
+    },
+    {
+        "key": "M141",
+        "title": "18-24-vuotiaiden ty\u00f6llisyysaste, %"
+    },
+    {
+        "key": "M132",
+        "title": "25-34-vuotiaita ty\u00f6llisi\u00e4"
+    },
+    {
+        "key": "M142",
+        "title": "25-34-vuotiaiden ty\u00f6llisyysaste, %"
+    },
+    {
+        "key": "M133",
+        "title": "35-44-vuotiaita ty\u00f6llisi\u00e4"
+    },
+    {
+        "key": "M143",
+        "title": "35-44-vuotiaiden ty\u00f6llisyysaste, %"
+    },
+    {
+        "key": "M134",
+        "title": "45-54-vuotiaita ty\u00f6llisi\u00e4"
+    },
+    {
+        "key": "M144",
+        "title": "45-54-vuotiaiden ty\u00f6llisyysaste, %"
+    },
+    {
+        "key": "M135",
+        "title": "55-59-vuotiaita ty\u00f6llisi\u00e4"
+    },
+    {
+        "key": "M145",
+        "title": "55-59-vuotiaiden ty\u00f6llisyysaste, %"
+    },
+    {
+        "key": "M136",
+        "title": "60-64-vuotiaita ty\u00f6llisi\u00e4"
+    },
+    {
+        "key": "M146",
+        "title": "60-64-vuotiaiden ty\u00f6llisyysaste, %"
+    },
+    {
+        "key": "M173",
+        "title": "Yritt\u00e4ji\u00e4"
+    },
+    {
+        "key": "M174",
+        "title": "Yritt\u00e4jien osuus ty\u00f6llisist\u00e4, %"
+    },
+    {
+        "key": "M175",
+        "title": "Miesyritt\u00e4ji\u00e4"
+    },
+    {
+        "key": "M176",
+        "title": "Miesyritt\u00e4jien osuus ty\u00f6llisist\u00e4 miehist\u00e4, %"
+    },
+    {
+        "key": "M177",
+        "title": "Naisyritt\u00e4ji\u00e4"
+    },
+    {
+        "key": "M178",
+        "title": "Naisyritt\u00e4jien osuus ty\u00f6llisist\u00e4 naisista, %"
+    },
+    {
+        "key": "M152",
+        "title": "Alueella olevia ty\u00f6paikkoja"
+    },
+    {
+        "key": "M155",
+        "title": "Ty\u00f6paikkojen m\u00e4\u00e4r\u00e4n muutos  edellisest\u00e4 vuodesta, %"
+    },
+    {
+        "key": "M156",
+        "title": "Ty\u00f6paikkojen m\u00e4\u00e4r\u00e4n muutos viidess\u00e4 vuodessa, %"
+    },
+    {
+        "key": "M800",
+        "title": "Alueella olevia miesten ty\u00f6paikkoja"
+    },
+    {
+        "key": "M801",
+        "title": "Alueella olevia naisten ty\u00f6paikkoja"
+    },
+    {
+        "key": "M71",
+        "title": "Alkutuotannon ty\u00f6paikkoja"
+    },
+    {
+        "key": "M72",
+        "title": "Alkutuotannon ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M83",
+        "title": "Jalostuksen ty\u00f6paikkoja"
+    },
+    {
+        "key": "M84",
+        "title": "Jalostuksen ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M105",
+        "title": "Palvelujen ty\u00f6paikkoja"
+    },
+    {
+        "key": "M106",
+        "title": "Palvelujen ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M153",
+        "title": "Toimialaltaan tuntemattomia ty\u00f6paikkoja"
+    },
+    {
+        "key": "M154",
+        "title": "Toimialaltaan tuntemattomien ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M123",
+        "title": "Teollisuuden ty\u00f6paikkoja"
+    },
+    {
+        "key": "M124",
+        "title": "Teollisuuden ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M125",
+        "title": "Teollisuuden ty\u00f6paikkoja, miehet"
+    },
+    {
+        "key": "M126",
+        "title": "Teollisuuden ty\u00f6paikkojen osuus kaikista miesten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M127",
+        "title": "Teollisuuden ty\u00f6paikkoja, naiset"
+    },
+    {
+        "key": "M128",
+        "title": "Teollisuuden ty\u00f6paikkojen osuus kaikista naisten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M107",
+        "title": "Rakentamisen ty\u00f6paikkoja"
+    },
+    {
+        "key": "M108",
+        "title": "Rakentamisen ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M109",
+        "title": "Rakentamisen ty\u00f6paikkoja, miehet"
+    },
+    {
+        "key": "M110",
+        "title": "Rakentamisen ty\u00f6paikkojen osuus kaikista miesten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M111",
+        "title": "Rakentamisen ty\u00f6paikkoja, naiset"
+    },
+    {
+        "key": "M112",
+        "title": "Rakentamisen ty\u00f6paikkojen osuus kaikista naisten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M85",
+        "title": "Kaupan ty\u00f6paikkoja"
+    },
+    {
+        "key": "M86",
+        "title": "Kaupan ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M87",
+        "title": "Kaupan ty\u00f6paikkoja, miehet"
+    },
+    {
+        "key": "M88",
+        "title": "Kaupan ty\u00f6paikkojen osuus kaikista miesten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M89",
+        "title": "Kaupan ty\u00f6paikkoja, naiset"
+    },
+    {
+        "key": "M90",
+        "title": "Kaupan ty\u00f6paikkojen osuus kaikista naisten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M113",
+        "title": "Majoitus- ja ravitsemistoiminnan ty\u00f6paikkoja"
+    },
+    {
+        "key": "M114",
+        "title": "Majoitus- ja ravitsemistoiminnan ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M91",
+        "title": "Koulutuksen ty\u00f6paikkoja"
+    },
+    {
+        "key": "M92",
+        "title": "Koulutuksen ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M93",
+        "title": "Koulutuksen ty\u00f6paikkoja, miehet"
+    },
+    {
+        "key": "M94",
+        "title": "Koulutuksen ty\u00f6paikkojen osuus kaikista miesten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M95",
+        "title": "Koulutuksen ty\u00f6paikkoja, naiset"
+    },
+    {
+        "key": "M96",
+        "title": "Koulutuksen ty\u00f6paikkojen osuus kaikista naisten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M117",
+        "title": "Terveys- ja sosiaalipalvelujen ty\u00f6paikkoja"
+    },
+    {
+        "key": "M118",
+        "title": "Terveys- ja sosiaalipalvelujen ty\u00f6paikkojen osuus, %"
+    },
+    {
+        "key": "M119",
+        "title": "Terveys- ja sosiaalipalvelujen ty\u00f6paikkoja, miehet"
+    },
+    {
+        "key": "M120",
+        "title": "Terveys- ja sosiaalipalvelujen ty\u00f6paikkojen osuus kaikista miesten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M121",
+        "title": "Terveys- ja sosiaalipalvelujen ty\u00f6paikkoja, naiset"
+    },
+    {
+        "key": "M122",
+        "title": "Terveys- ja sosiaalipalvelujen ty\u00f6paikkojen osuus kaikista naisten ty\u00f6paikoista, %"
+    },
+    {
+        "key": "M79",
+        "title": "Informaatiosektorin ty\u00f6paikkoja"
+    },
+    {
+        "key": "M80",
+        "title": "Informaatiosektorin ty\u00f6paikkojen osuus, %"
+    }
+]
